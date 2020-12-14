@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-datamigration
 Version  : 4.0.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/ce/c7/171e8d8aeb344431419c72157793721deae9f422807237521245cd227351/azure-mgmt-datamigration-4.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/ce/c7/171e8d8aeb344431419c72157793721deae9f422807237521245cd227351/azure-mgmt-datamigration-4.0.0.zip
 Summary  : Microsoft Azure Data Migration Client Library for Python
